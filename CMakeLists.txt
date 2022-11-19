@@ -16,6 +16,6 @@ if(CMAKE_EXPORT_COMPILE_COMMANDS)
     endif()
 endif()
 
-add_subdirectory(november)
+add_subdirectory(first-year)
 add_executable(main main.cpp)
 target_link_libraries(main PRIVATE ps_1)

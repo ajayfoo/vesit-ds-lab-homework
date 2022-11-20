@@ -3,6 +3,6 @@
 
 auto main() -> int
 {
-    test_get_gcd();
+    ds_lab::test_find();
     return 0;
 }

@@ -3,6 +3,6 @@
 
 auto main() -> int
 {
-    test_get_pow_of();
+    test_get_gcd();
     return 0;
 }
